@@ -1,4 +1,5 @@
 # BARK SPL Token Program
+v1.0.0
 
 BARK SPL Token Program is a Solana SPL token implementation.
 
