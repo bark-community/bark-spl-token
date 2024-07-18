@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-Clone the repository and navigate to the project directory:
+Clone the repository and navigate to the program / project directory:
 
 ```bash
 git clone https://github.com/bark-community/bark-spl-token.git
