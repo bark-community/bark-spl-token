@@ -1,4 +1,5 @@
 # BARK SPL Token
+v1.0.0
 
 ![BARK Logo](link_to_logo.png)
 
