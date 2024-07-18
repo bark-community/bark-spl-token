@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es2018", // Specifies the ECMAScript target version. Here, it targets ES2018 features.
+      "module": "commonjs", // Generates CommonJS modules, suitable for Node.js environments.
+      "strict": true, // Enables strict type-checking options.
+      "esModuleInterop": true, // Allows importing CommonJS modules as default imports in TypeScript.
+      "skipLibCheck": true, // Skips type checking of all declaration files (*.d.ts).
+      "resolveJsonModule": true, // Enables importing JSON modules in TypeScript.
+      "forceConsistentCasingInFileNames": true, // Ensures consistent file casing in imports.
+      "outDir": "./dist" // Specifies the output directory for compiled TypeScript files.
+    },
+    "include": ["src/**/*"], // Specifies files to include for compilation under the src directory.
+    "exclude": ["node_modules", "**/*.spec.ts"] // Specifies files to exclude from compilation.
+  }
+  

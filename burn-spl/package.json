@@ -1,0 +1,12 @@
+{
+  "name": "burn-spl",
+  "description": "A script written in TypeScript/JavaScript for burning tokens on the Solana blockchain using the SPL Token program.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.1",
+    "dotenv": "^16.4.5"
+  }
+}

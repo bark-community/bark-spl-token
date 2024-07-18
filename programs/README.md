@@ -41,6 +41,7 @@ Clone the repository and navigate to the program / project directory:
 ```bash
 git clone https://github.com/bark-community/bark-spl-token.git
 cd bark-spl-token && programs
+cd bark-upgrade-token
 ```
 
 Install dependencies:
