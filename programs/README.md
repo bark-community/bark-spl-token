@@ -13,7 +13,7 @@ BARK SPL Token Program is a Solana SPL token implementation.
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Installation](#installation)
-  - [Deploying BARK Token](#deploying-bark-token)
+  - [Deploying Token](#deploying-bark-token)
 - [Usage](#usage)
   - [Interacting with BARK Token](#interacting-with-bark-token)
   - [API Reference](#api-reference)
