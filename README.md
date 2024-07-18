@@ -12,7 +12,7 @@ BARK is a decentralized finance (DeFi) and Social Finance (SoFi) token designed 
 ## Features
 
 - **SPL Compatibility:** Built on the Solana Program Library (SPL), ensuring efficient and scalable operations for charity aid and financial transactions.
-- **Token-2022 Compatibility:** BARK is currently implemented as a standard SPL token. While this version does not yet support all features of the Token-2022 standard, our team is actively working towards integrating Token-2022 features to enhance security and functionality.
+- **Token-2022 Compatibility:** BARK is currently implemented as a standard SPL token. While this version does not yet support all features of the Token-2022 standard, BARK Protocol is actively working towards integrating Token-2022 features to enhance security and functionality.
 - **Enhanced Security:** Utilizes advanced blockchain security measures to provide secure transactions and protect user assets.
 - **Governance and Utility:** Enables community governance and provides utility within the BARK Protocol and broader BARK ecosystems.
 
