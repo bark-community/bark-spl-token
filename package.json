@@ -1,0 +1,18 @@
+{
+  "name": "bark-spl-token",
+  "version": "1.0.0",
+  "description": "BARK Token Program is a Solana SPL token implementation designed to support BARK Protocol utility and governance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BARK Protocol",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.1",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.5.3"
+  }
+}

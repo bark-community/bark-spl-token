@@ -1,7 +1,7 @@
 # BARK SPL Token Program
 v1.0.0
 
-BARK SPL Token Program is a Solana SPL token implementation.
+BARK Token Program is a Solana SPL token implementation designed to support BARK Protocol / BARK utility and governance.
 
 ## Features
 
@@ -85,7 +85,7 @@ solana mint <recipient_address> <amount>
 
 ### API Reference
 
-Explore detailed API usage in [Documentation](./docs/API.md).
+Explore detailed API usage in [Documentation](./bark-token-docs/API.md).
 
 ## Advanced Topics
 

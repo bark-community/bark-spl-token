@@ -16,9 +16,13 @@ BARK is a decentralized finance (DeFi) and Social Finance (SoFi) token designed 
 - **Enhanced Security:** Utilizes advanced blockchain security measures to provide secure transactions and protect user assets.
 - **Governance and Utility:** Enables community governance and provides utility within the BARK Protocol and broader BARK ecosystems.
 
+## Solana SPL Token Program ID
+
+- **The SPL Token Program**: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
 ## Getting Started
 
-To interact with the BARK token, you can use wallets or tools compatible with Solana and SPL tokens. Here are the basic steps to get started:
+To interact with the BARK token (BARK), you can use wallets or tools compatible with Solana and SPL tokens. Here are the basic steps to get started:
 
 1. **Install Required Software:**
    - Install [Solana Command Line Tools](https://docs.solana.com/cli/install-solana-cli-tools) for managing your Solana wallet and interacting with tokens.
